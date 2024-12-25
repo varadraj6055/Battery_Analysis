@@ -6,6 +6,11 @@ This repository contains the analysis and machine learning implementation for th
 
 ---
 
+#OUTPUT
+<img width="531" alt="Screenshot 2024-12-25 at 11 44 44 PM" src="https://github.com/user-attachments/assets/ef259cd7-730f-42fb-82d9-236fda48c125" />
+
+
+
 ## Contents
 
 - **Battery_Analysis.ipynb**: Jupyter Notebook containing the Python code for:
